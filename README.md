@@ -89,7 +89,59 @@ Email do contato: gaberbass@gmail.com
 | Backlogs do Produto |
 | :---- |
 
-\<Neste capítulo, teremos uma lista expandida do Escopo. Liste aqui os Requisitos levantados junto ao cliente e pela equipe de desenvolvimento. Os requisitos devem ter uma breve explicação do que se trata. Caso já tenha feito isso no Jira, basta copiar para cá.\>
+**1. Banco de Dados
+Requisitos:
+
+BD-01: Estrutura de Tabelas de Usuários
+Criar tabelas para armazenar informações de usuários, incluindo nome, e-mail, senha (com criptografia), cargo e permissões de acesso.
+
+BD-02: Registro de Ponto
+Estrutura de banco para armazenar horários de entrada e saída dos usuários, com vínculo ao ID do usuário e data/hora do registro.
+
+BD-03: Histórico de Acesso
+Registrar e armazenar logs de login, logout e tentativas de acesso não autorizadas.
+
+BD-04: Segurança de Dados
+Implementar criptografia para senhas e aplicar boas práticas de segurança para proteger os dados armazenados.
+
+BD-05: Backup e Restauração
+Sistema de backup automático periódico e funcionalidade de restauração dos dados em caso de falha.
+
+**2. Sistema para Bater o Ponto
+Requisitos:
+
+SP-01: Interface de Registro de Ponto
+Tela ou botão acessível onde o usuário pode registrar sua entrada ou saída com um clique.
+
+SP-02: Identificação do Usuário
+O sistema deve autenticar o usuário antes de permitir o registro de ponto.
+
+SP-03: Verificação de Ponto Duplicado
+Impedir que o usuário registre mais de uma vez o mesmo tipo de ponto (entrada/saída) no mesmo período.
+
+SP-04: Visualização de Histórico Pessoal
+O usuário poderá acessar seu próprio histórico de pontos registrados.
+
+SP-05: Controle de Jornada
+Sistema de alerta para registros fora do horário previsto ou ausência de registro de saída.
+
+**3. Geolocalizador (Funcionalidade Futuramente Incorporada)
+Requisitos:
+
+GL-01: Captura de Localização no Registro de Ponto
+Coletar e armazenar a geolocalização (latitude/longitude) no momento do registro de ponto.
+
+GL-02: Permissão de Localização
+Solicitar autorização do usuário para acessar a localização, com opção de negar.
+
+GL-03: Validação de Localização Permitida
+Comparar a localização capturada com locais previamente autorizados pela empresa (ex: sede, filial, home office autorizado).
+
+GL-04: Visualização de Localização em Mapa
+Administradores poderão visualizar em um mapa onde os registros de ponto foram realizados.
+
+GL-05: Alerta de Registro Fora da Área Permitida
+Notificar o administrador quando um ponto for registrado fora da zona autorizada.
 
 | Cronograma |
 | :---- |
