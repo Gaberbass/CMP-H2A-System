@@ -89,7 +89,7 @@ Email do contato: gaberbass@gmail.com
 | Backlogs do Produto |
 | :---- |
 
-**1. Banco de Dados
+**1. Banco de Dados**
 Requisitos:
 
 BD-01: Estrutura de Tabelas de Usuários
@@ -107,7 +107,7 @@ Implementar criptografia para senhas e aplicar boas práticas de segurança para
 BD-05: Backup e Restauração
 Sistema de backup automático periódico e funcionalidade de restauração dos dados em caso de falha.
 
-**2. Sistema para Bater o Ponto
+**2. Sistema para Bater o Ponto**
 Requisitos:
 
 SP-01: Interface de Registro de Ponto
@@ -125,7 +125,7 @@ O usuário poderá acessar seu próprio histórico de pontos registrados.
 SP-05: Controle de Jornada
 Sistema de alerta para registros fora do horário previsto ou ausência de registro de saída.
 
-**3. Geolocalizador (Funcionalidade Futuramente Incorporada)
+**3. Geolocalizador (Funcionalidade Futuramente Incorporada)**
 Requisitos:
 
 GL-01: Captura de Localização no Registro de Ponto
