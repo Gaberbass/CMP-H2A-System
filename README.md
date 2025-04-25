@@ -146,7 +146,7 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 | Cronograma |
 | :---- |
 
-![cronograma](print.png)
+![cronograma](print1.png)
 
 | Materiais e Métodos |
 | :---- |
