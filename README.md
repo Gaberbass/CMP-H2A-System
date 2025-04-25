@@ -53,7 +53,6 @@ Email do contato: gaberbass@gmail.com
 | Equipe de Desenvolvimento  |
 | :---- |
 
-\<Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.\>
 
 | Nome completo | Curso | Disciplina |
 | :---: | :---: | :---: |
@@ -68,7 +67,6 @@ Email do contato: gaberbass@gmail.com
 | Introdução |
 | :---- |
 
-\<Dica: uma introdução ao projeto deve constar o problema constatado pelo cliente. Em seguida, deve ser relatado, resumidamente, como serão resolvidos. Comente sobre as tecnologias que serão utilizadas para resolver o problema e por fim, em apenas uma frase, descreva também como seu sistema vai modificar (impacto causado) no processo do cliente. Este texto pode ser usado no forms de inscrição no CPEI/JUPESQI\>  
  **A CMP & H2A é uma empresa do setor de administração e terceirização de serviços para condomínios residenciais e comerciais.**  
 **Com isso certos condomínios fazem a contratação da empresa para a terceirização de funcionários como síndicos, porteiros e equipe de limpeza.**  
 **Como se trabalha com vários tipos de condomínios existe um problema que nem todos possuem Relógio de Ponto ou algum sistema, assim tendo que se adaptar para cada condômino.**
@@ -78,13 +76,11 @@ Email do contato: gaberbass@gmail.com
 | Objetivo |
 | :---- |
 
-\<Dica: Qual problema que o cliente enfrenta, o qual será resolvido através de um sistema computadorizado? Por exemplo, “Automatizar o atendimento de balcão para que os pedidos sejam emitidos de forma automática para a cozinha do restaurante.\>  
 **Como dito antes, na introdução nem todos condôminos possuem relógios de pontos ou algum sistema relacionado, com isso nosso objetivo é criar um sistema que todos os condôminos que não possuem algo próprio possam usar e que todos os dados seja enviado diretamente para empresa CMP & H2A.**
 
 | Escopo |
 | :---- |
 
-\<Escopo é o que será implementado no sistema. Coloque aqui os requisitos principais que serão implementados e até que ponto serão implementados, ou seja, quais os limites de implementação. Os requisitos citados aqui devem ser macros, ou seja, 2 ou 3 requisitos principais. Também é bom citar o que não será implementado.\>
 
 **1- Banco de Dados** – Será implementado desde o início para armazenar de forma segura todas as informações necessárias, incluindo registros de ponto, dados dos usuários e históricos de acesso.  
 **2- Sistema para Bater o Ponto** – Funcionalidade essencial que permitirá aos usuários registrar seus horários de entrada e saída de forma prática e eficiente.  
