@@ -151,7 +151,7 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 | Materiais e Métodos |
 | :---- |
 
-!(mer.png)
+![mer](mer.png)
 
 | Resultados |
 | :---- |
