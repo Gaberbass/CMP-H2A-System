@@ -146,12 +146,14 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 | Cronograma |
 | :---- |
 
-![cronograma](print1.png)
+![cronograma](print1.png) 
 
 | Materiais e Métodos |
 | :---- |
 
-![mer](MER.png)
+<img src="MER.png" alt="mer" width="500"/>
+MER do funcionamento do nosso BD 
+
 
 | Resultados |
 | :---- |
