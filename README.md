@@ -155,8 +155,11 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 
 | Resultados |
 | :---- |
+ Tela de login 
 <img src="tela1.png" alt="mer" width="300"/>
+ Tela de entrada do ponto 
 <img src="tela2.png" alt="mer" width="300"/>
+ Tela de saida do ponto 
 <img src="tela3.png" alt="mer" width="300"/>
 
 
