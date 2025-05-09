@@ -155,9 +155,10 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 
 | Resultados |
 | :---- |
-![mer](tela1.png)
-![mer](tela2.png)
-![mer](tela3.png)
+<img src="tela1.png" alt="mer" width="300"/>
+<img src="tela2.png" alt="mer" width="300"/>
+<img src="tela3.png" alt="mer" width="300"/>
+
 
    2. **Códigos das principais funcionalidades**: \<Dica: copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.\>
 
