@@ -168,8 +168,8 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 | Conclusão |
 | :---- |
 
-   1. **Impacto do sistema:** \<Dica: como o sistema impactou (alterou positivamente) o processo do cliente\>  
-   2. **Melhorias Futuras**: \<Dica: elencar, pelo menos, uma melhoria que poderá ser realizada futuramente no sistema.\>
+   1. **Impacto do sistema:** Nosso projeto ja impactou pois, a empresa ira utilizar um sistema unificado sobre as informações dos funcionarios tercerizados que ela possuí, assim ela tendo a possibilidade de fazer todos os calculos de salario e faltas tudo em sistema e de forma automatica.
+   2. **Melhorias Futuras**: A principal melhoria futura que iremos colocar será o geolocalizador que irá ajudar a empresa CMP a ter um controle maior sobre a localização de onde os funcionarios  irão bater o ponto de entrada e saída, assim deixando impossivel a utilização indevida em outro local.
 
 | Homologação do MVP junto ao cliente |
 | :---- |
