@@ -151,10 +151,7 @@ Notificar o administrador quando um ponto for registrado fora da zona autorizada
 | Materiais e Métodos |
 | :---- |
 
-1. **Modelagem do sistema**: \<Dica: a modelagem do seu sistema são diagramas (desenhos) da sua estrutura ou comportamento. A UML (Unified Modelling Language) oferece diversos diagramas para que você possa modelar seu sistema. Escolha, pelo menos, dois modelos e insira aqui. Por exemplo, Modelo de Dados (Diagrama de Classe ou MER), Casos de Uso, Diagrama de Sequência, Diagrama de Atividades etc. Estes modelos são próprios para construção da comunicação, entendimento e implantação dos requisitos do sistema. Você pode usar ferramentas, como: LucidChart, Draw.io etc. Veja exemplos em [Diagramas UML: exemplo e modelos | Lucidchart Blog](https://www.lucidchart.com/blog/pt/modelos-e-exemplos-de-diagramas-uml)\>. Recomendo os diagramas: Caso de Uso: mostra as relações entre Atores e Processos, Diagrama de Classes: mostra as relações entre as classes (quando houver) do sistema e o MER (Modelo Entidade-Relacionamento): mostra as relações entre os dados das tabelas de BD. Mas cada sistema pede diagramas diferentes. Portanto, aplique conforme necessidade;  
-   2. **Tecnologias utilizadas**: \<Dica: escreva quais linguagens foram utilizadas, quais  frameworks, bibliotecas e API’s consumidas/criadas. Quais ferramentas foram usadas para desenho dos modelos. Para cada um deles, faça uma pequena descrição de uso.\>  
-        
-   3. **Arquitetura do sistema**: \<Dica: insira aqui uma imagem contendo a arquitetura do sistema e o fluxo das informações. Se a arquitetura for muito simples, detalhe o fluxo dos processos. (veja um exemplo na figura 1 (pag. 79\) deste artigo: [Monitor de WhatsApp: Um Sistema para Checagem de Fatos no Combate à Desinformação](https://www.researchgate.net/publication/355943388_Monitor_de_WhatsApp_Um_Sistema_para_Checagem_de_Fatos_no_Combate_a_Desinformacao)\>. Este diagrama será muito bom para usar no banner da FENETEC.
+!(mer.png)
 
 | Resultados |
 | :---- |
